@@ -92,9 +92,9 @@ public class Menu extends JFrame {
 //			case "Multiplication":
 //				newFrame = new Multiplication();
 //				break;
-//			case "Division":
-//				newFrame = new Division();
-//				break;
+			case "Division":
+				newFrame = new Division();
+				break;
 		}
 		if (newFrame != null) {
 			newFrame.setSize(550, 350);
