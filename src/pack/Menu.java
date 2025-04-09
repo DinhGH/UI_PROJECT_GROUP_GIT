@@ -83,9 +83,9 @@ public class Menu extends JFrame {
 	private void openNewForm(String operation) {
 		JFrame newFrame = null;
 		switch (operation) {
-//			case "Addition":
-//				newFrame = new Addition();
-//				break;
+			case "Addition":
+				newFrame = new Addition();
+				break;
 //			case "Subtraction":
 //				newFrame = new Subtraction();
 //				break;
