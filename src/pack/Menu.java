@@ -89,9 +89,10 @@ public class Menu extends JFrame {
 //			case "Subtraction":
 //				newFrame = new Subtraction();
 //				break;
-//			case "Multiplication":
-//				newFrame = new Multiplication();
-//				break;
+
+			case "Multiplication":
+				newFrame = new Multiplication();
+				break;
 			case "Division":
 				newFrame = new Division();
 				break;
